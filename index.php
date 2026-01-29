@@ -447,7 +447,7 @@ function submitForm(e){
 }
 </script>
 
-<script>
+<!-- <script>
 // Global variable to track if cookies are accepted
 let cookieAccepted = false;
 
@@ -493,7 +493,8 @@ window.onload = function(){
         }, 500); // 0.5 second delay
     }
 };
-</script>
+</script> -->
 
 </body>
 </html>
+
