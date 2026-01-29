@@ -233,7 +233,7 @@ footer a{color:#ccc;text-decoration:none;display:block;margin-bottom:8px;}
 
 <body>
 
-<!-- COOKIE OVERLAY -->
+<!-- <!-- COOKIE OVERLAY -->
 <div id="cookieOverlay"></div>
 
 <div id="cookieBox">
@@ -248,7 +248,7 @@ footer a{color:#ccc;text-decoration:none;display:block;margin-bottom:8px;}
         <button class="accept" onclick="acceptCookies()">Accept</button>
         <button class="decline" onclick="declineCookies()">Decline</button>
     </div>
-</div>
+</div> -->
 
 
 <header>
@@ -497,4 +497,5 @@ window.onload = function(){
 
 </body>
 </html>
+
 
